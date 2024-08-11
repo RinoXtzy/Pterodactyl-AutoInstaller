@@ -18,7 +18,7 @@ set -e
 
 export GITHUB_SOURCE="v1.1.0"
 export SCRIPT_RELEASE="v1.1.0"
-export GITHUB_BASE_URL="https://raw.githubusercontent.com/pterodactyl-installer/pterodactyl-installer"
+export GITHUB_BASE_URL="https://raw.githubusercontent.com/therealnico75/Pterodactyl-AutoInstaller/main/install.sh"
 
 LOG_PATH="/var/log/pterodactyl-installer.log"
 
