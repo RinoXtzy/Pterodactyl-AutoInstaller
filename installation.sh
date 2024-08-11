@@ -16,9 +16,6 @@ echo "###############################################################"
 echo " "
 set -e
 
-export GITHUB_SOURCE="v1.1.0"
-export SCRIPT_RELEASE="v1.1.0"
-
 LOG_PATH="/var/log/pterodactyl-installer.log"
 
 # check for curl
